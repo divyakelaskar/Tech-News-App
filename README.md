@@ -6,5 +6,7 @@
   
 <br>
   
-<h3 align= "center"><b>📱 App Screenshots :</b></h3>
+<h3 align= "center"><b>📱 App Demo :</b></h3>
 
+<!-- demo video -->
+https://user-images.githubusercontent.com/56636487/132634713-271b170c-e0c5-4a02-9a96-3cd9fa456b05.mp4
